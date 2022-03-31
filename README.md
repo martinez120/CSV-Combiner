@@ -13,3 +13,11 @@ def main():
 if __name__ == "__main__":
 
     main()
+
+
+Alternatively, you can use an alterd version of the program in which the user only inputs the file's directory
+
+Program Example: 
+
+Enter Csv file location: C:/Users/Name/Documents/Data
+
